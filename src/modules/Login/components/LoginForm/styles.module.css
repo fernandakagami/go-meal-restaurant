@@ -1,0 +1,7 @@
+.form-container {
+  @apply bg-white me-20 p-10 flex flex-col justify-between items-center gap-6 w-[25rem] rounded-lg;
+}
+
+.form-input {
+  @apply w-full;
+}
